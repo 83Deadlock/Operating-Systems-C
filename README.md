@@ -10,7 +10,7 @@ Encontra-se também no repositório o relatório de desenvolvimento do projeto c
 
 ------------------------------------------------//-----------------------------------------------------
 
-Practical work on Operating Systems, UC of the 2nd year of the Integrated Master in Computer Engineering at Univerisdade do Minho.
+Practical work on Operating Systems, CU of the 2nd year of the Integrated Master in Computer Engineering at Univerisdade do Minho.
 
 The project is a command execution interface between one or more clients and a server.
 
