@@ -1,4 +1,6 @@
-Trabalho prático de Sistemas Operativos, UC do 2º ano do Mestrado Integrado em Engenharia Informática na Univerisdade do Minho.
+# Operating-Systems-C
+
+Trabalho prático de Sistemas Operativos, unidade curricular do 2º ano do Mestrado Integrado em Engenharia Informática na Univerisdade do Minho.
 
 O projeto é uma interface de execução de comandos entre um ou vários clientes e um servidor.
 
@@ -10,7 +12,7 @@ Encontra-se também no repositório o relatório de desenvolvimento do projeto c
 
 ------------------------------------------------//-----------------------------------------------------
 
-Practical work on Operating Systems, CU of the 2nd year of the Integrated Master in Computer Engineering at Univerisdade do Minho.
+Practical work on Operating Systems, course unit of the 2nd year of the Integrated Master in Computer Engineering at Univerisdade do Minho.
 
 The project is a command execution interface between one or more clients and a server.
 
