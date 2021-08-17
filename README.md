@@ -9,3 +9,5 @@ In this repository, all files referring to this work are present, as well as the
 To execute, just run the Makefile (using the command "make all") and execute - in two different terminals - first the executable "argusd" and then "argus", the second one can be executed with or without arguments, reacting differently to both situations.
 
 The project development report is also found in the repository with brief explanations of how each feature was developed.
+
+This code contains usage of signals, pipes and process management on Operating Systems.
